@@ -3,7 +3,7 @@
 # FenixAOIM
 An interactive map for Anarchy Online, where you can teleport by clicking the warp markers, with multiple characters. Works great for blitzing nanos.
 
-### Overview
+## Overview
 
 - An Interactive map for Anarchy Online, in the form of an AOSharp plugin. See [here](https://gitlab.com/never-knows-best/aosharp) for more information on AOSharp.
 - This tool allows you to have a fully zoomable map, with clickable markers to initiate teleports utilising Scottyboi's ingame warpers. It also allows you to initiate this from multiple characters at once. 
@@ -21,7 +21,7 @@ One of the main issues (That I still have to solve), is when you are hovering th
 
 Also, if using SyncManager plugin already, set the TeamInviteOutside to on, so that it auto accepts the warp invite.
 
-### Usage Guide
+## Usage Guide
 **Setting up**
 1. Add it just like any other AOSharp plugin. 
 2. <img width="213" height="14" alt="Image" src="https://github.com/user-attachments/assets/37c99a8b-9cdd-45af-97d9-8737a4a54418" />
@@ -29,9 +29,16 @@ Also, if using SyncManager plugin already, set the TeamInviteOutside to on, so t
 
 NOTE: This is opened for the character who initiates it, and cannot be opened on other characters unless first closed on the previous character.
 
+If you see this when you attempt to warp <img width="343" height="20" alt="image" src="https://github.com/user-attachments/assets/a13b2622-6018-473c-84ec-ce51f86dee8b" />
+it means that your character_ids.txt file does not contain Scottyboi or his ID (Or the ID of the custom player if you have custom warps).
+Scottyboi's ID is 1425923920, found from [here](https://rubi-ka.net/) 
+Adding additional entries should look like this:
+
+<img width="266" height="64" alt="image" src="https://github.com/user-attachments/assets/f9021c2c-aa66-4f71-b44c-d479bf8cf0be" />
+
 **General Usage**
 In the bottom left is three buttons (From left to right)
-1. Move to Player
+1. Move to Player (Centers the player).
 2. Move to next mission (Cycles through them)
 3. Follows the player if enabled. Clicking on the map disables this.
 
@@ -67,12 +74,12 @@ From the Markers tab located on the Menu Bar, You can select Edit Markers to ope
 The application will auto switch between layers depending on zoom level. If you would prefer this to remain static, just select which layer you would like active in Map, located on the Menu Bar.
 Alternatively, to re-enable autoswitching, just select Auto Layer by Zoom.
 
-### Aims and goals
+## Aims and goals
 - Realistically, I would like a clean copy of the map. That would be a huge undertaking unless one was obtainable from Saavicks. (That way I could compile 3-5 versions of the map at varying qualities and it would be much more consistent, and all the pins would be done via .JSON configs).
 - I would eventually like to have all the map information translated
 - Add the ability to resize individual pins.
 - Will release the source code when I'm happy with it!
 - I plan on adding a revising "Label" to be "Description" and adding a further field for "Visual name". For situations where you want to shorten the map identifier (This could also be a remedy for tags with the same name (Like fixer grid exists)).
 
-### Support
+## Support
 Support me [here](https://ko-fi.com/fenixdao)
