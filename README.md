@@ -1,3 +1,5 @@
+REMOVED AND DISCONTINUED UNTIL FURTHER NOTICE - I have made multiple attempts to contact Saavick to try and source a clean copy of the map, and have not received any response. Without this, the application is pretty redundant, and I don't currently have the time to create my own version. It's a shame, as I had just added SL support and search functionality and a bunch of other features! I may consider creating my own cleaned version of the map in the future, but currently my focus is on other things.
+
 <img width="645" height="642" alt="image" src="https://github.com/user-attachments/assets/f1fd3c11-fd5a-4953-a72d-2c00544f7c02" />
 
 # FenixAOIM
