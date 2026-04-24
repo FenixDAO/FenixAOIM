@@ -1,4 +1,4 @@
-REMOVED AND DISCONTINUED UNTIL FURTHER NOTICE - I have made multiple attempts to contact Saavick to try and source a clean copy of the map, and have not received any response. Without this, the application is pretty redundant, and I don't currently have the time to create my own version. It's a shame, as I had just added SL support and search functionality and a bunch of other features! I may consider creating my own cleaned version of the map in the future, but currently my focus is on other things.
+REMOVED AND DISCONTINUED UNTIL FURTHER NOTICE
 
 <img width="645" height="642" alt="image" src="https://github.com/user-attachments/assets/f1fd3c11-fd5a-4953-a72d-2c00544f7c02" />
 
@@ -82,6 +82,3 @@ Alternatively, to re-enable autoswitching, just select Auto Layer by Zoom.
 - Add the ability to resize individual pins.
 - Will release the source code when I'm happy with it!
 - I plan on adding a revising "Label" to be "Description" and adding a further field for "Visual name". For situations where you want to shorten the map identifier (This could also be a remedy for tags with the same name (Like fixer grid exists)).
-
-## Support
-Support me [here](https://ko-fi.com/fenixdao)
