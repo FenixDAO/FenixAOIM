@@ -1,4 +1,4 @@
-REMOVED AND DISCONTINUED UNTIL FURTHER NOTICE
+Not currently working on this, as I am focused on improving the game graphically. I do however, have a working prototype that functions as outlined below. 
 
 <img width="645" height="642" alt="image" src="https://github.com/user-attachments/assets/f1fd3c11-fd5a-4953-a72d-2c00544f7c02" />
 
